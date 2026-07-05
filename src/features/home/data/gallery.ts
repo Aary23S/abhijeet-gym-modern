@@ -1,0 +1,15 @@
+export const galleryImages = [
+  { src: "/images/image01.jpg", alt: "Abhijeet Gym workout area in Kolhapur" },
+  { src: "/images/image02.jpg", alt: "Fitness equipment at Abhijeet Gym" },
+  { src: "/images/image03.jpg", alt: "Gym training space at Abhijeet Gym" },
+  { src: "/images/image04.jpg", alt: "Strength training setup at Abhijeet Gym" },
+  { src: "/images/image05.jpg", alt: "Workout machines at Abhijeet Gym Kolhapur" },
+  { src: "/images/image06.jpg", alt: "Abhijeet Gym interior" },
+  { src: "/images/image07.jpg", alt: "Fitness training area" },
+  { src: "/images/image01.jpg", alt: "Gym equipment and workout section" },
+  { src: "/images/image09.jpg", alt: "Weight training area at Abhijeet Gym" },
+  { src: "/images/image10.jpg", alt: "Abhijeet Gym and Fitness Kolhapur" },
+  { src: "/images/image11.jpg", alt: "Modern gym equipment" },
+  { src: "/images/image12.jpg", alt: "Abhijeet Gym training environment" },
+  { src: "/images/image13.jpg", alt: "Fitness center in Kolhapur" },
+];
