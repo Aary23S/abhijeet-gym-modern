@@ -10,6 +10,7 @@ export const gymInfo = {
   whatsappHref: "https://wa.me/919096285228",
 
   email: "abhidesai2691@gmail.com",
+  emailHref: "mailto:abhidesai2691@gmail.com",
 
   city: "Kolhapur",
   state: "Maharashtra",
@@ -20,6 +21,12 @@ export const gymInfo = {
     "Suvarna Plaza, Near Padmaraje Girls High School, Sangar Galli, Mangalwar Peth, Kolhapur, Maharashtra 416012",
 
   branch:
+    "Jetvan, Salokhe Nagar Rd, Near Apte Nagar, Kolhapur, Maharashtra 416007",
+
+  primaryAddress:
+    "Suvarna Plaza, Near Padmaraje Girls High School, Sangar Galli, Mangalwar Peth, Kolhapur, Maharashtra 416012",
+
+  secondaryAddress:
     "Jetvan, Salokhe Nagar Rd, Near Apte Nagar, Kolhapur, Maharashtra 416007",
 };
 
